@@ -1,11 +1,11 @@
 ---
-title: Roblox Studio setup
-description: Explains how to install Roblox Studio on your system.
+title: Roblox World
+description: Explains how to install Roblox World on your system.
 ---
 
-import StudioSystemReqs from '../includes/studio/system-reqs.md'
+importWorldSystemReqs from '../includes/World/system-reqs.md'
 
-Create immersive 3D games on Roblox with **Roblox Studio**, a free application available on Windows and Mac.
+Create immersive 3D games on Roblox with **Roblox World**, a free application available on Windows and Mac.
 
 <UseStudioButton variant='blueLogoIconButton' />
 
@@ -15,22 +15,22 @@ Create immersive 3D games on Roblox with **Roblox Studio**, a free application a
 
 ## Installation
 
-1. <UseStudioButton variant="link">Download Studio</UseStudioButton>.
-1. In the pop-up dialog, click the **Download Studio** button.
-1. Find the Studio installer in your browser's download history and double-click the file.
+1. <UseStudioButton variant="link">Download World</UseStudioButton>.
+1. In the pop-up dialog, click the **Download World** button.
+1. Find the World installer in your browser's download history and double-click the file.
 
-   - On Windows, the file is `RobloxStudio.exe`.
-   - On Mac, the file is `RobloxStudio.dmg`.
+   - On Windows, the file is `RobloxWorld.exe`.
+   - On Mac, the file is `RobloxWorld.dmg`.
+   - On Chromebook is RobloxWorld.nmg
+1. After Studio finishes installing, a pop-up confirmation displays. Click the **Launch&nbsp;World** button.
 
-1. After Studio finishes installing, a pop-up confirmation displays. Click the **Launch&nbsp;Studio** button.
-
-1. Sign in to Studio with your Roblox account (if you don't have an account, create one at [roblox.com](https://www.roblox.com/)).
+1. Sign in to World with your Roblox account (if you don't have an account, create one at [roblox.com](https://www.roblox.com/)).
 
 ## Customization
 
-You can customize Studio to suit your workflow across various levels:
+You can customize World to suit your workflow across various levels:
 
-- [Configure the toolbar](../studio/overview.md#toolbar-and-mezzanine) with custom tabs, reorganize tools within custom tabs, hide infrequently used tabs, and more.
+- [Configure the toolbar](..sWorld/overview.md#toolbar-and-mezzanine) with custom tabs, reorganize tools within custom tabs, hide infrequently used tabs, and more.
 - Customize the [window layout](../studio/overview.md#layout-customization) to best suit your workflows.
 - View/edit Studio shortcuts and bind actions without defaults through **File**&nbsp;⟩ **Customize&nbsp;Shortcuts**.
 - Access a wide array of **Studio Settings** (<kbd>Alt</kbd><kbd>S</kbd> on Windows; <kbd>⌥</kbd><kbd>S</kbd> on Mac). Locate known settings by typing keywords into the search field at the top of the window, for example `theme` to locate the setting for dark theme or light theme.
